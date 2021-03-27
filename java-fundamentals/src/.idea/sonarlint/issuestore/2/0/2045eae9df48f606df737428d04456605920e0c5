@@ -1,0 +1,16 @@
+
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(›Äæ÷üÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÜÙ¼×
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(£–Êù
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(í¬ äüÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(É¦‹’
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(öÈÏ›
+E
+java:S1172)"/Remove this unused method parameter "accounts".(”ýÀ¯
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ó·¦¶øÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ðÆÊÆùÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(©‰ƒ 
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ø”ÆÖûÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(é°ÿÓýÿÿÿÿ
